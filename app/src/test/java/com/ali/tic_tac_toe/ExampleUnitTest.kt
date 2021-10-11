@@ -1,4 +1,4 @@
-package com.ali.messeger
+package com.ali.tic_tac_toe
 
 import org.junit.Test
 

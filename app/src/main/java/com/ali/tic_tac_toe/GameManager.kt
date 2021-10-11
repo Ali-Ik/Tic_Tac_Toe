@@ -1,6 +1,4 @@
-package com.ali.messeger
-
-import java.text.FieldPosition
+package com.ali.tic_tac_toe
 
 class GameManager {
 

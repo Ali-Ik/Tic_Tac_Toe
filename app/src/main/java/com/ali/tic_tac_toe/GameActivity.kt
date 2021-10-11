@@ -1,15 +1,12 @@
-package com.ali.messeger
+package com.ali.tic_tac_toe
 
 import android.app.GameManager
-import android.gesture.GesturePoint
-import android.icu.text.ConstrainedFieldPosition
-import android.icu.text.Transliterator
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
-import org.w3c.dom.Text
+import tic_tac_toe.R
 import kotlin.collections.forEach as forEach1
 
 class GameActivity : AppCompatActivity() {
